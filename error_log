@@ -1,0 +1,126 @@
+[24-Aug-2024 11:05:47 UTC] PHP Notice:  Undefined index: password in /home/naoktaco/public_html/poc/controller.php on line 31
+[24-Aug-2024 11:08:25 UTC] PHP Notice:  Undefined index: password in /home/naoktaco/public_html/poc/controller.php on line 31
+[24-Aug-2024 17:06:58 UTC] PHP Notice:  Undefined index: id in /home/naoktaco/public_html/poc/api.php on line 54
+[24-Aug-2024 17:13:41 UTC] PHP Notice:  Undefined index: _embedded in /home/naoktaco/public_html/poc/dashboard.php on line 9
+[24-Aug-2024 17:13:41 UTC] PHP Notice:  Undefined index: status in /home/naoktaco/public_html/poc/dashboard.php on line 17
+[24-Aug-2024 17:13:41 UTC] PHP Notice:  Undefined index: sessionToken in /home/naoktaco/public_html/poc/dashboard.php on line 19
+[24-Aug-2024 17:13:41 UTC] PHP Notice:  Undefined index: _embedded in /home/naoktaco/public_html/poc/dashboard.php on line 21
+[24-Aug-2024 17:17:42 UTC] PHP Notice:  Undefined index: _embedded in /home/naoktaco/public_html/poc/dashboard.php on line 9
+[24-Aug-2024 17:17:42 UTC] PHP Notice:  Undefined index: status in /home/naoktaco/public_html/poc/dashboard.php on line 17
+[24-Aug-2024 17:17:42 UTC] PHP Notice:  Undefined index: sessionToken in /home/naoktaco/public_html/poc/dashboard.php on line 19
+[24-Aug-2024 17:17:42 UTC] PHP Notice:  Undefined index: _embedded in /home/naoktaco/public_html/poc/dashboard.php on line 21
+[25-Aug-2024 07:52:14 UTC] PHP Notice:  Undefined variable: userId in /home/naoktaco/public_html/poc/dashboard.php on line 56
+[25-Aug-2024 07:52:14 UTC] PHP Notice:  Undefined variable: userFirstName in /home/naoktaco/public_html/poc/dashboard.php on line 70
+[25-Aug-2024 07:52:14 UTC] PHP Notice:  Undefined variable: userLastName in /home/naoktaco/public_html/poc/dashboard.php on line 71
+[25-Aug-2024 07:52:14 UTC] PHP Notice:  Undefined variable: userLogin in /home/naoktaco/public_html/poc/dashboard.php on line 72
+[25-Aug-2024 07:52:14 UTC] PHP Notice:  Undefined variable: token in /home/naoktaco/public_html/poc/dashboard.php on line 73
+[25-Aug-2024 07:52:14 UTC] PHP Notice:  Undefined variable: status in /home/naoktaco/public_html/poc/dashboard.php on line 74
+[25-Aug-2024 08:07:22 UTC] PHP Notice:  Undefined variable: userId in /home/naoktaco/public_html/poc/activate.php on line 76
+[25-Aug-2024 08:12:33 UTC] PHP Notice:  Undefined variable: userId in /home/naoktaco/public_html/poc/activate.php on line 76
+[25-Aug-2024 08:15:59 UTC] PHP Notice:  Undefined variable: userId in /home/naoktaco/public_html/poc/activate.php on line 76
+[25-Aug-2024 08:16:18 UTC] PHP Notice:  Undefined variable: userId in /home/naoktaco/public_html/poc/activate.php on line 78
+[25-Aug-2024 08:16:40 UTC] PHP Notice:  Undefined variable: userId in /home/naoktaco/public_html/poc/activate.php on line 77
+[25-Aug-2024 08:19:18 UTC] PHP Notice:  Undefined variable: userId in /home/naoktaco/public_html/poc/activate.php on line 76
+[25-Aug-2024 08:19:18 UTC] PHP Notice:  Undefined variable: userId in /home/naoktaco/public_html/poc/activate.php on line 79
+[25-Aug-2024 08:39:37 UTC] PHP Notice:  Undefined index: _embedded in /home/naoktaco/public_html/poc/dashboard.php on line 9
+[25-Aug-2024 08:39:37 UTC] PHP Notice:  Undefined index: status in /home/naoktaco/public_html/poc/dashboard.php on line 17
+[25-Aug-2024 08:39:37 UTC] PHP Notice:  Undefined index: sessionToken in /home/naoktaco/public_html/poc/dashboard.php on line 19
+[25-Aug-2024 08:39:37 UTC] PHP Notice:  Undefined index: _embedded in /home/naoktaco/public_html/poc/dashboard.php on line 21
+[25-Aug-2024 08:40:16 UTC] PHP Notice:  Undefined index: _embedded in /home/naoktaco/public_html/poc/dashboard.php on line 9
+[25-Aug-2024 08:40:16 UTC] PHP Notice:  Undefined index: status in /home/naoktaco/public_html/poc/dashboard.php on line 17
+[25-Aug-2024 08:40:16 UTC] PHP Notice:  Undefined index: sessionToken in /home/naoktaco/public_html/poc/dashboard.php on line 19
+[25-Aug-2024 08:40:16 UTC] PHP Notice:  Undefined index: _embedded in /home/naoktaco/public_html/poc/dashboard.php on line 21
+[25-Aug-2024 08:48:25 UTC] PHP Notice:  Undefined variable: userId in /home/naoktaco/public_html/poc/dashboard.php on line 56
+[25-Aug-2024 08:48:25 UTC] PHP Notice:  Undefined variable: userFirstName in /home/naoktaco/public_html/poc/dashboard.php on line 70
+[25-Aug-2024 08:48:25 UTC] PHP Notice:  Undefined variable: userLastName in /home/naoktaco/public_html/poc/dashboard.php on line 71
+[25-Aug-2024 08:48:25 UTC] PHP Notice:  Undefined variable: userLogin in /home/naoktaco/public_html/poc/dashboard.php on line 72
+[25-Aug-2024 08:48:25 UTC] PHP Notice:  Undefined variable: token in /home/naoktaco/public_html/poc/dashboard.php on line 73
+[25-Aug-2024 08:48:25 UTC] PHP Notice:  Undefined variable: status in /home/naoktaco/public_html/poc/dashboard.php on line 74
+[25-Aug-2024 08:51:16 UTC] PHP Notice:  Undefined property: stdClass::$appAccountStatus in /home/naoktaco/public_html/poc/login_controller.php on line 42
+[25-Aug-2024 08:57:13 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/naoktaco/public_html/poc/login_controller.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/naoktaco/public_html/poc/login_controller.php on line 37
+[25-Aug-2024 08:58:08 UTC] PHP Notice:  Undefined index: profile in /home/naoktaco/public_html/poc/login_controller.php on line 37
+[25-Aug-2024 09:00:54 UTC] PHP Notice:  Trying to get property of non-object in /home/naoktaco/public_html/poc/login_controller.php on line 37
+[25-Aug-2024 09:41:55 UTC] PHP Notice:  Undefined index: profile in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:43:12 UTC] PHP Notice:  Undefined index: profile in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:43:59 UTC] PHP Notice:  Undefined index: profile in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:43:59 UTC] PHP Notice:  Trying to get property of non-object in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:44:15 UTC] PHP Notice:  Undefined index: profile in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:44:16 UTC] PHP Notice:  Undefined index: profile in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:46:49 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:46:52 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:46:53 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:46:54 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:46:54 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:46:54 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:46:55 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:46:55 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:46:56 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:47:38 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:47:39 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:48:00 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 23
+[25-Aug-2024 09:50:19 UTC] PHP Notice:  Trying to get property of non-object in /home/naoktaco/public_html/poc/dashboard.php on line 24
+[25-Aug-2024 09:51:36 UTC] PHP Notice:  Trying to get property of non-object in /home/naoktaco/public_html/poc/dashboard.php on line 75
+[25-Aug-2024 09:51:55 UTC] PHP Notice:  Trying to get property of non-object in /home/naoktaco/public_html/poc/dashboard.php on line 75
+[25-Aug-2024 09:51:57 UTC] PHP Notice:  Trying to get property of non-object in /home/naoktaco/public_html/poc/dashboard.php on line 75
+[25-Aug-2024 09:51:58 UTC] PHP Notice:  Trying to get property of non-object in /home/naoktaco/public_html/poc/dashboard.php on line 75
+[25-Aug-2024 09:51:58 UTC] PHP Notice:  Trying to get property of non-object in /home/naoktaco/public_html/poc/dashboard.php on line 75
+[25-Aug-2024 09:51:58 UTC] PHP Notice:  Trying to get property of non-object in /home/naoktaco/public_html/poc/dashboard.php on line 75
+[25-Aug-2024 09:51:59 UTC] PHP Notice:  Trying to get property of non-object in /home/naoktaco/public_html/poc/dashboard.php on line 75
+[25-Aug-2024 09:51:59 UTC] PHP Notice:  Trying to get property of non-object in /home/naoktaco/public_html/poc/dashboard.php on line 75
+[25-Aug-2024 09:52:19 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 75
+[25-Aug-2024 09:52:21 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 75
+[25-Aug-2024 09:54:19 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 75
+[25-Aug-2024 09:55:07 UTC] PHP Notice:  Array to string conversion in /home/naoktaco/public_html/poc/dashboard.php on line 10
+[25-Aug-2024 09:55:07 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 77
+[25-Aug-2024 09:55:42 UTC] PHP Notice:  Undefined index: appAccountStatus in /home/naoktaco/public_html/poc/dashboard.php on line 78
+[26-Aug-2024 08:11:25 UTC] PHP Notice:  Undefined variable: userId in /home/naoktaco/public_html/poc/dashboard.php on line 57
+[26-Aug-2024 08:11:25 UTC] PHP Notice:  Undefined variable: userFirstName in /home/naoktaco/public_html/poc/dashboard.php on line 71
+[26-Aug-2024 08:11:25 UTC] PHP Notice:  Undefined variable: userLastName in /home/naoktaco/public_html/poc/dashboard.php on line 72
+[26-Aug-2024 08:11:25 UTC] PHP Notice:  Undefined variable: userLogin in /home/naoktaco/public_html/poc/dashboard.php on line 73
+[26-Aug-2024 08:11:25 UTC] PHP Notice:  Undefined variable: token in /home/naoktaco/public_html/poc/dashboard.php on line 74
+[26-Aug-2024 08:11:25 UTC] PHP Notice:  Undefined variable: status in /home/naoktaco/public_html/poc/dashboard.php on line 75
+[26-Aug-2024 09:11:34 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/naoktaco/public_html/poc/activate.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/naoktaco/public_html/poc/activate.php on line 35
+[26-Aug-2024 09:17:01 UTC] PHP Notice:  Undefined variable: response in /home/naoktaco/public_html/poc/activate.php on line 33
+[26-Aug-2024 09:20:41 UTC] PHP Notice:  Undefined variable: domain in /home/naoktaco/public_html/poc/activate.php on line 16
+[26-Aug-2024 09:22:36 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/naoktaco/public_html/poc/activate.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/naoktaco/public_html/poc/activate.php on line 40
+[26-Aug-2024 09:23:53 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/naoktaco/public_html/poc/activate.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/naoktaco/public_html/poc/activate.php on line 40
+[26-Aug-2024 09:34:19 UTC] PHP Notice:  Undefined variable: userProfile in /home/naoktaco/public_html/poc/activate.php on line 7
+[26-Aug-2024 09:34:19 UTC] PHP Notice:  Trying to get property of non-object in /home/naoktaco/public_html/poc/activate.php on line 7
+[26-Aug-2024 12:53:39 UTC] PHP Notice:  Undefined index: id in /home/naoktaco/public_html/poc/passwordReset.php on line 32
+[26-Aug-2024 12:54:36 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/naoktaco/public_html/poc/passwordReset.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/naoktaco/public_html/poc/passwordReset.php on line 32
+[26-Aug-2024 12:56:37 UTC] PHP Notice:  Undefined variable: firstname in /home/naoktaco/public_html/poc/passwordReset.php on line 86
+[26-Aug-2024 12:56:37 UTC] PHP Notice:  Undefined variable: username in /home/naoktaco/public_html/poc/passwordReset.php on line 107
+[26-Aug-2024 13:06:39 UTC] PHP Notice:  Trying to get property of non-object in /home/naoktaco/public_html/poc/passwordReset.php on line 32
+[26-Aug-2024 13:07:51 UTC] PHP Notice:  Undefined variable: firstName in /home/naoktaco/public_html/poc/passwordReset.php on line 33
+[26-Aug-2024 13:11:12 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/naoktaco/public_html/poc/passwordReset.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/naoktaco/public_html/poc/passwordReset.php on line 32
+[27-Aug-2024 06:14:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/naoktaco/public_html/poc/passChange.php on line 151
+[27-Aug-2024 07:58:07 UTC] PHP Notice:  Undefined index: customStateToken in /home/naoktaco/public_html/poc/passwordReset.php on line 70
+[27-Aug-2024 07:58:07 UTC] PHP Notice:  Undefined index: customStateToken in /home/naoktaco/public_html/poc/passwordReset.php on line 71
+[27-Aug-2024 08:06:26 UTC] PHP Notice:  Undefined offset: 0 in /home/naoktaco/public_html/poc/passwordReset.php on line 40
+[27-Aug-2024 08:17:35 UTC] PHP Notice:  Undefined index: id in /home/naoktaco/public_html/poc/passwordReset.php on line 37
+[27-Aug-2024 08:18:05 UTC] PHP Notice:  Trying to get property of non-object in /home/naoktaco/public_html/poc/passwordReset.php on line 37
+[27-Aug-2024 08:30:48 UTC] PHP Notice:  Undefined variable: firstname in /home/naoktaco/public_html/poc/passwordReset.php on line 70
+[28-Aug-2024 09:19:43 UTC] PHP Notice:  Undefined variable: userFirstName in /home/naoktaco/public_html/poc/dashboard.php on line 63
+[28-Aug-2024 09:19:43 UTC] PHP Notice:  Undefined variable: userLastName in /home/naoktaco/public_html/poc/dashboard.php on line 63
+[28-Aug-2024 09:19:43 UTC] PHP Notice:  Undefined variable: userLogin in /home/naoktaco/public_html/poc/dashboard.php on line 72
+[28-Aug-2024 09:19:43 UTC] PHP Notice:  Undefined variable: token in /home/naoktaco/public_html/poc/dashboard.php on line 81
+[28-Aug-2024 09:19:43 UTC] PHP Notice:  Undefined variable: status in /home/naoktaco/public_html/poc/dashboard.php on line 90
+[28-Aug-2024 09:19:43 UTC] PHP Notice:  Undefined variable: userId in /home/naoktaco/public_html/poc/dashboard.php on line 97
